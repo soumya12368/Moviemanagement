@@ -1,0 +1,14 @@
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\bin\Debug\net6.0\MovieManagementApp.exe
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\bin\Debug\net6.0\MovieManagementApp.deps.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\bin\Debug\net6.0\MovieManagementApp.runtimeconfig.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\bin\Debug\net6.0\MovieManagementApp.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\bin\Debug\net6.0\MovieManagementApp.pdb
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\obj\Debug\net6.0\MovieManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\obj\Debug\net6.0\MovieManagementApp.AssemblyInfoInputs.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\obj\Debug\net6.0\MovieManagementApp.AssemblyInfo.cs
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\obj\Debug\net6.0\MovieManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\obj\Debug\net6.0\MovieManagementApp.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\obj\Debug\net6.0\refint\MovieManagementApp.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\obj\Debug\net6.0\MovieManagementApp.pdb
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\obj\Debug\net6.0\MovieManagementApp.genruntimeconfig.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\obj\Debug\net6.0\ref\MovieManagementApp.dll

@@ -1,0 +1,5 @@
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\bin\Release\net6.0\publish\MovieManagementApp.exe
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\bin\Release\net6.0\publish\MovieManagementApp.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\bin\Release\net6.0\publish\MovieManagementApp.deps.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\bin\Release\net6.0\publish\MovieManagementApp.runtimeconfig.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day5\MovieManagementApp\MovieManagementApp\bin\Release\net6.0\publish\MovieManagementApp.pdb

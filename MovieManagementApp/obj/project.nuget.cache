@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5VqejDmHOJLcXXRk0WDD5flg6UFWu8dW8AaV4FyoxrbtRA2meQt6mLt1TfsmPrBvmkckiMQf6hPhNVag591Gqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soums\\OneDrive\\Desktop\\Phase4\\Phase4\\Day5\\MovieManagementApp\\MovieManagementApp\\MovieManagementApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soums\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
